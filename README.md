@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 About Me<br>🎓 I am currently pursuing my 4th semester at the University of Indonesia and my 5th semester at Asia e University.<br>☕ I have a strong interest in Java programming and am continuously working to enhance my skills in this area.<br>✍️ I also enjoy writing and am consistently striving to improve both my technical and creative abilities.<br>📚 I am passionate about continuous learning and committed to personal and professional growth.
+🎓 I am currently pursuing my 4th semester at the University of Indonesia and my 5th semester at Asia e University.<br>☕ I have a strong interest in Java programming and am continuously working to enhance my skills in this area.<br>✍️ I also enjoy writing and am consistently striving to improve both my technical and creative abilities.<br>📚 I am passionate about continuous learning and committed to personal and professional growth.
 
 
 ## 🌐 Socials:
